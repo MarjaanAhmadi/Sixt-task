@@ -2,6 +2,11 @@
 
 Programming Exercise Frontend - 4
 
+
+### Configure api
+
+Copy `.env.example` to `.env` then edit it with the url where you have setup
+
 ## Demo
 
 ![sixtanimation2](https://user-images.githubusercontent.com/23704949/119955842-b44f1700-bfb5-11eb-8378-0b2a738ed46c.gif)
